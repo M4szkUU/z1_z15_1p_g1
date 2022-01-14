@@ -1,0 +1,12 @@
+﻿<html>
+<head> <meta charset=utf-8">
+</head>
+<body>
+<p><h2>1. Na co pozwala styl lokalny, który element będzie formatowany z użyciem stylu lokalnego?</h2></p>
+<p>Styl lokalny pozwala na nadanie formatowania konkretnemu pojedynczemu elementowi strony. </p>
+<p><h2>2. Składnia teoretyczna ( z użyciem ramki otaczającej może być tabela o jednej komórce, zastosuj?</h2></p>
+<p><h2>3. Co może być selektorem?</h2></p>
+<p><h2>4. Co wipisujemy jako "cechę". Jakie jest znaczenie średników?</h2></p>
+<p><h2>5. Co wipisujemy jako "wartość" (w deklaracji stylu)?</h2></p>
+</body>
+</html>
