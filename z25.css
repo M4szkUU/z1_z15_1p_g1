@@ -1,0 +1,86 @@
+#zdanie1 {
+text-align:right; 
+font-variant: small;
+font-family: Times New Roman;
+font-size: small;
+font-weight: 500;
+color: IndianRed;
+font-style: normal;
+text-decoration: overline;
+text-indent: 28mm;
+line-height: 2cm;
+word-spacing: 10px;
+letter-spacing: 2ex;
+}
+#zdanie2 {
+text-align:right;
+font-variant: medium; 
+font-family: Georgia;
+font-size: medium;
+font-weight: 600;
+color: #FF0000;
+font-style: italic;
+text-transform: uppercase;
+text-decoration: overline;
+text-indent: 28mm;
+line-height: 2cm;
+word-spacing: 10px;
+letter-spacing: 2ex;
+}
+#zdanie3 {
+text-align:right;
+font-variant: normal; 
+font-family: Garamond;
+font-size: xx-large;
+font-weight: 700;
+color: DarkRed;
+font-style: serif;
+text-decoration: overline;
+text-indent: 28mm;
+line-height: 2cm;
+word-spacing: 10px;
+letter-spacing: 2ex;
+}
+#zdanie11 {
+text-align: center;
+font-variant: normal; 
+font-family: Helverica;
+font-size: 10px;
+font-weight:300;
+color: Coral;
+font-style: serif;
+text-decoration: line-through;
+text-indent: 3cm;
+line-height: 20mm;
+word-spacing: 10pt;
+letter-spacing: 0.25cm;
+}
+#zdanie22{
+text-align: center;
+font-variant: normal; 
+font-family: Arial;
+font-size: 5in;
+font-weight: 600;
+color: Tomato;
+font-style: serif;
+text-decoration: line-through;
+text-indent: 3cm;
+line-height: 20mm;
+word-spacing: 10pt;
+letter-spacing: 0.25cm;
+}
+#zdanie33 {
+text-align: center;
+font-variant: normal; 
+font-family: Verdana;
+font-size: 5em;
+font-weight: 800;
+color: Orange;
+font-style: serif;
+text-transform: capitalize;
+text-decoration: line-through;
+text-indent: 3cm;
+line-height: 20mm;
+word-spacing: 10pt;
+letter-spacing: 0.25cm;
+}
