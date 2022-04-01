@@ -1,0 +1,38 @@
+<html>
+<head>
+</head>
+<body><ul>
+<h2>1.Selektor potomka:</h2>
+<li><h3>Przy użyciu selektora potomka można formatować elementy, które sa zawarte wewnątrz innych znaczników, czyli leżą niżej w hierarchii drzewa dokumentu.
+</h3>
+</li>
+
+<h2>2.do formatowania jakich elementów służy
+</h2>
+
+<li>
+<h2><li><textarea><html>
+<head>
+<title>styl wpisany</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+p b { color: red }
+</style>
+</head>
+<body>
+<p>Dzięki temu, jeśli wewnątrz znacznika p (akapit)<br>
+<b> znajdzie się znacznik b (czyli pogrubienie tekstu), to zostanie on automatycznie </b><br>
+napisany czcionką koloru czerwonego.</p>
+</body>
+</html></textarea></li>
+</h2>
+</li>
+<li>
+<h3>Natomiast wyrazy "cecha" oraz "wartość" określają atrybuty elementu.
+Selektor potomka pozwala nadać atrybuty elementom, które leżą niżej w hierarchii drzewa dokumentu (zawierają się w innych zewnętrznych znacznikach). Dzięki temu możemy zmienić typ formatowania tylko dla określonych elementów, które są podrzędne w stosunku do innych (przodków). Potomek nie musi leżeć bezpośrednio wewnątrz znacznika przodka. Może być zawarty jeszcze w innych znacznikach, które z kolei zawierają się w rodzicu. Nie jest wtedy konieczne podawanie w deklaracji wszystkich rodziców, a jedynie przodka i potomka.
+Selektor taki jest szczególnie przydatny, dla określenia wyglądu odsyłaczy wewnątrz bloku, ponieważ jeśli nie określimy dla nich tzw. pseudoklas odsyłaczowych, nie odziedziczą one formatowania po przodkach.
+</h3>
+</li>
+</ul>
+</body>
+</html>
